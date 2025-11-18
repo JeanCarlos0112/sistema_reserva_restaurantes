@@ -89,4 +89,4 @@ http://localhost:8080
 [ ] Phase 4: Front-end Integration (React + Tailwind)
 
 ## 📜 License
-This project is licensed under the [MIT License](https://github.com/JeanCarlos0112/sistema_reserva_restaurantes/edit/main/README.md)
+This project is licensed under the [MIT License](https://github.com/JeanCarlos0112/sistema_reserva_restaurantes/edit/main/license)
