@@ -43,5 +43,5 @@ To run this project, you will need:
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/JeanCarlos0112/sistema_reserva_restaurantes.git](https://github.com/JeanCarlos0112/sistema_reserva_restaurantes.git)
+   git clone https://github.com/JeanCarlos0112/sistema_reserva_restaurantes.git
    cd sistema_reserva_restaurantes
