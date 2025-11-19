@@ -44,8 +44,8 @@ Before running this project, ensure you have the following installed:
 ### 1. Clone the Repository
 Open your terminal and run:
 ```bash
-git clone [https://github.com/JeanCarlos0112/repository-name.git](https://github.com/JeanCarlos0112/repository-name.git)
-cd repository-name
+git clone https://github.com/JeanCarlos0112/sistema_reserva_restaurantes.git
+cd sistema_reserva_restaurantes
 ```
 
 ### 2. Configure the Database
