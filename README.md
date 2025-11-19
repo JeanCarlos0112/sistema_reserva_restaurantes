@@ -80,13 +80,13 @@ http://localhost:8080
 ---
 
 ## 🚧 Project Phases
-[x] Phase 1: Database Modeling & JPA Entities
+- [x] Phase 1: Database Modeling & JPA Entities
 
-[ ] Phase 2: API Logic (Controllers & Services)
+- [ ] Phase 2: API Logic (Controllers & Services)
 
-[ ] Phase 3: Validations & Security
+- [ ] Phase 3: Validations & Security
 
-[ ] Phase 4: Front-end Integration (React + Tailwind)
+- [ ] Phase 4: Front-end Integration (React + Tailwind)
 
 ## 📜 License
 This project is licensed under the [MIT License](https://github.com/JeanCarlos0112/sistema_reserva_restaurantes/blob/main/LICENSE)
